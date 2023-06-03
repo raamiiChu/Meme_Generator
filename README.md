@@ -13,6 +13,19 @@ pip install transformers
 pip install ckip-transformers
 ```
 
+# 說明
+##### 流程  
+1. 對輸入文本進行預處理  
+2. 假如預處理結果至少有 4 個詞彙則開始執行網路爬蟲  
+
+##### 使用套件  
+- **selenium**
+  - 網址：https://predis.ai/free-ai-tools/ai-meme-generator/#  
+  - 透過網路爬蟲，使用現成 AI 製作迷因  
+- **ckip-transformers**
+  - 用於預處理文本
+  - https://github.com/ckiplab/ckip-transformers
+
 # meme_gen_gradio.py  
 - 直接執行即可，會回傳本地端網址，以及分享用網址  
 - 若中止執行，則 2 份網址皆會刪除  
