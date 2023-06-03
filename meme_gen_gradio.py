@@ -58,7 +58,7 @@ with gr.Blocks(css=css) as iface:
     input_text = gr.Textbox(
         label = "input_text", 
         placeholder = "請輸入情境（至少 4 個詞彙）", 
-        
+        max_lines = 1,
         show_label = False
     )
     # 生成按鈕
