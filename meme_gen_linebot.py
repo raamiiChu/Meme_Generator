@@ -22,6 +22,11 @@ def meme_generator(user_id, message_text: str) -> None:
 
     # 至少 4 個詞彙才會執行
     if len(text) >= 4:
+        line_bot_api.push_message(
+            user_id, 
+            TextSendMessage(text="製作中，大約需要 30 秒完成")
+        )
+
         # 詞彙之間以空格做間隔
         text = " ".join(text)
 
