@@ -2,7 +2,7 @@
 ```
 pip install flask
 pip install line-bot-sdk
-pip install openai
+pip install gradio
 pip install selenium
 pip install chromedriver-binary
 pip install transformers
@@ -14,7 +14,7 @@ pip install ckip-transformers
 - 若中止執行，則 2 份網址皆會刪除  
 
 # meme_gen_linebot.py  
-1. 在 ngrok 依序執行以下指令
+1. 在 ngrok 依序執行以下指令，[ngrok 下載連結](https://ngrok.com/download)  
   ```
   ngrok authtoken "你的 authtoken"
   ngrok http 5000
