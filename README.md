@@ -1,4 +1,8 @@
-# 安裝以下套件  
+# 在終端機執行指令  
+```
+pip install -r requirements.txt
+```
+##### 如果失敗的話，逐一執行以下指令
 ```
 pip install flask
 pip install line-bot-sdk
