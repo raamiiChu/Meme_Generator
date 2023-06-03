@@ -24,7 +24,12 @@ pip install ckip-transformers
   https:// ...... .ngrok-free.app
   ```
 
-2. 執行 meme_gen_linebot.py
+2. 修改 Channel access token, Channel secret，執行 meme_gen_linebot.py
+
+  ```
+  15 line_bot_api = LineBotApi('Channel access token')
+  16 handler = WebhookHandler('Channel secret')
+  ```
 
 3. 在 ngrok 網址 尾端加上 "/webhook" ，貼在如下位置  
 ![Messaging API](https://github.com/raamiiChu/Meme_Generator/assets/87169493/6f69ac71-038b-4a24-8b11-51c88aa38866)
