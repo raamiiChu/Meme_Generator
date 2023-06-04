@@ -14,6 +14,8 @@ pip install ckip-transformers
 ```
 
 # 說明
+將 Predis AI 串接到 Linebot 以及 Gradio  
+
 ##### 流程  
 1. 對輸入文本進行預處理  
 2. 假如預處理結果至少有 4 個詞彙則開始執行網路爬蟲  
