@@ -31,6 +31,8 @@ pip install ckip-transformers
 - 若中止執行，則 2 份網址皆會刪除  
 
 # meme_gen_linebot.py  
+## 操作影片：https://www.youtube.com/watch?v=J3cmRowF5RU
+
 1. 在 ngrok 依序執行以下指令，[ngrok 下載連結](https://ngrok.com/download)  
   ```
   ngrok authtoken "你的 authtoken"
