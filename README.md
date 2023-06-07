@@ -1,4 +1,4 @@
-![meme](https://github.com/raamiiChu/NCCU_111-2_DCT_Artificial-Intelligence-and-Digital-Content_Group8_DEMO/assets/87169493/e47b72f1-bb77-4d77-8502-742cff07ac58)
+![meme](https://github.com/raamiiChu/NCCU_111-2_DCT_Artificial-Intelligence-and-Digital-Content_Group8_DEMO/assets/87169493/caa3fe26-5f7a-42f8-9989-6c72a8902ccc)
 
 
 # 在終端機執行指令  
