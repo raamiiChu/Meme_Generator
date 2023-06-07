@@ -1,3 +1,6 @@
+![meme](https://github.com/raamiiChu/NCCU_111-2_DCT_Artificial-Intelligence-and-Digital-Content_Group8_DEMO/assets/87169493/e47b72f1-bb77-4d77-8502-742cff07ac58)
+
+
 # 在終端機執行指令  
 ```
 pip install -r requirements.txt
